@@ -85,7 +85,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  google_mlkit_translation: ^0.15.1
+  translator: ^1.0.4+1
 ```
 
 ---
