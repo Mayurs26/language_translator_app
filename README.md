@@ -18,13 +18,17 @@ A modern Flutter application that translates text between multiple languages usi
 
 ## 📸 Screenshots
 
-### Home Screen
+<p align="center">
+  <img src="assets/screenshots/home.png" width="240" alt="Home Screen"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/translation.png" width="240" alt="Translation Result"/>
+</p>
 
-![Home](assets/screenshots/home.png)
-
-### Translation Result
-
-![Translation](assets/screenshots/translation.png)
+<p align="center">
+  <b>Home Screen</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Translation Result</b>
+</p>
 
 ---
 
@@ -128,7 +132,7 @@ dependencies:
 - 📋 Copy translated text
 - ❤️ Favorite translations
 - 🕒 Translation history
-- 🌙 Dark/Light theme
+- 🌙 Dark/Light Theme
 - 📷 Image Text Translation (OCR)
 
 ---
